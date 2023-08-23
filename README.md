@@ -22,6 +22,6 @@ Execute `ng test` para executar os testes unitários via [Karma](https://karma-r
 
 Execute `ng e2e` para executar os testes ponta a ponta por meio de uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implemente recursos de teste ponta a ponta.
 
-## Further help
+## Mais ajuda
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou confira a página [Visão geral do Angular CLI e referência de comandos.](https://angular.io/cli)
